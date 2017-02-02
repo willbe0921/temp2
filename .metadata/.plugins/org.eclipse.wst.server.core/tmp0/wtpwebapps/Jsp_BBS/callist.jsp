@@ -8,7 +8,7 @@
     
 <%
 MemberDto user = (MemberDto)session.getAttribute("login");
-
+/* aaaa */
 String year =request.getParameter("year");
 String month =request.getParameter("month");
 String day =request.getParameter("day");
